@@ -38,7 +38,7 @@ markdown_extensions:
 theme:
   name: material
   custom_dir: "theme"
-  logo: "images/logo.bmp"
+  logo: "images/logo.png"
   palette:
     primary: 'blue grey'
     accent: 'light blue'
