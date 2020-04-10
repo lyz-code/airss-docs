@@ -3,6 +3,7 @@ site_author: Lyz
 site_url: https://lyz-code.github.io/airss-docs
 nav:
   - Introduction: 'index.md'
+  - Downloader: 'downloader/downloader.md'
 
 plugins:
   - search
