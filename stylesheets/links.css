@@ -857,9 +857,13 @@
 
 /* Blue book: Fetch all internal links not `//` and the external links of my
  * blog */
-.md-content a[href*='lyz-code.github.io']::after,
+.md-content a[href*='lyz-code.github.io/pydo']::after,
 .md-content a:not([href*="//"])::after {
     background-image: url("/pydo/assets/images/pydo.svg");
+}
+.md-content a[href*='lyz-code.github.io/airss']::after,
+.md-content a:not([href*="//"])::after {
+    background-image: url("/pydo/assets/images/airss.png");
 }
 .md-content a[href*='lyz-code.github.io']:hover::after,
 .md-content a:not([href*="//"])::after {
