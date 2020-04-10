@@ -48,5 +48,5 @@ extra_css:
   - 'stylesheets/extra.css'
   - 'stylesheets/links.css'
 
-repo_name: 'lyz-code/airss_docs'
-repo_url: 'https://github.com/lyz-code/airss_docs'
+repo_name: 'lyz-code/airss-docs'
+repo_url: 'https://github.com/lyz-code/airss-docs'
