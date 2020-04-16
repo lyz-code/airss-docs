@@ -18,3 +18,7 @@ each data source, so it should be easy to support new sites.
 * It must preserve the anonymity of the user as much as possible.
 * It must store all the metadata needed by the other programs in the database.
 
+# Extractors
+
+An extractor is an object that transforms the source data into the SQLAlchemy
+objects defined in the [models]() schema.
