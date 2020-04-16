@@ -4,6 +4,7 @@ site_url: https://lyz-code.github.io/airss-docs
 nav:
   - Introduction: 'index.md'
   - Downloader: 'downloader/downloader.md'
+  - Database: 'database/database.md'
 
 plugins:
   - search
